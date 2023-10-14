@@ -2,7 +2,7 @@
 
 ## Description of the project
 
-### Create your data model
+* Create your data model
 ### Manage (create, update, destroy, etc) objects via a console / command interpreter
 ### Store and persist objects to a file (JSON file)
 
